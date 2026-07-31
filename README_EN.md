@@ -2,6 +2,8 @@ AuthMod — Player Login & Registration for Forge 1.20.1
 
 The first server-side authentication mod for Forge 1.20.1 with `/register` and `/login`.
 
+> This fork localizes the original mod into Chinese, translating all in-game messages for Chinese players.
+
 [English](README_EN.md) | [简体中文](README.md)
 
 ---

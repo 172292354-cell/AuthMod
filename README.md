@@ -2,6 +2,8 @@ AuthMod — Minecraft Forge 1.20.1 登录认证模组
 
 首个支持 Forge 1.20.1 的服务端登录认证模组，提供 `/register`（注册）和 `/login`（登录）命令。
 
+> 本项目基于原模组进行了中文汉化，将游戏内所有提示文本翻译为中文，方便国内玩家使用。
+
 [English](README_EN.md) | 简体中文
 
 ---
