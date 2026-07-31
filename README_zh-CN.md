@@ -65,5 +65,9 @@ AuthMod — Minecraft Forge 1.20.1 登录认证模组
 ## 开源协议
 本项目基于 [MIT 协议](LICENSE) 开源。
 
+## 致谢
+本项目 Fork 自 [d-society1](https://github.com/d-society1) 的 [AuthMod](https://github.com/d-society1/AuthMod) 原项目，原项目同时发布于 [CurseForge](https://www.curseforge.com/minecraft/mc-mods/forgeguardauth)。
+
 ## 作者
-[172292354-cell](https://github.com/172292354-cell)
+- 原项目作者：[d-society1](https://github.com/d-society1)
+- 本 Fork 维护者：[172292354-cell](https://github.com/172292354-cell)

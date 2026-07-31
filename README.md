@@ -48,5 +48,9 @@ The first server-side authentication mod for Forge 1.20.1 with `/register` and `
 ## License
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
+## Acknowledgements
+This is a fork of the original [AuthMod](https://github.com/d-society1/AuthMod) by [d-society1](https://github.com/d-society1), also available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/forgeguardauth).
+
 ## Author
-[172292354-cell](https://github.com/172292354-cell)
+- Original: [d-society1](https://github.com/d-society1)
+- This fork: [172292354-cell](https://github.com/172292354-cell)
