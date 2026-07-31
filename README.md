@@ -2,6 +2,8 @@ AuthMod — Player Login & Registration for Forge 1.20.1
 
 The first server-side authentication mod for Forge 1.20.1 with `/register` and `/login`.
 
+[English](README.md) | [简体中文](README_zh-CN.md)
+
 ---
 
 ## Features
