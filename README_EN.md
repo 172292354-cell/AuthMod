@@ -2,7 +2,7 @@ AuthMod — Player Login & Registration for Forge 1.20.1
 
 The first server-side authentication mod for Forge 1.20.1 with `/register` and `/login`.
 
-> This fork adds Chinese localization on top of the original AuthMod, which only supported English and Russian.
+> This fork localizes the README into Chinese. **Note:** v1.0.0 only included a Chinese README — in-game messages were still English/Russian only. v1.0.1 adds full Simplified Chinese localization for all in-game messages.
 
 [English](README_EN.md) | [简体中文](README.md)
 
