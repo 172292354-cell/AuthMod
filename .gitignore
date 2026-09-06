@@ -31,3 +31,4 @@ src/generated/
 
 # 本地数据（包含密码，绝对不能提交）
 authmod_data.json
+# Gradle wrapper jar (large binary, download via wrapper)
