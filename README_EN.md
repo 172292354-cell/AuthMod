@@ -24,13 +24,19 @@ The first server-side authentication mod for Forge 1.20.1 with `/register` and `
 
 ---
 
+## v1.0.0 Changelog
+
+**Added: English and Russian language support**
+
+v1.0.0 is the first release, adding English and Russian translations on top of the original mod. The mod automatically switches language based on the player's client language setting.
+
+---
+
 ## v1.0.1 Changelog
 
 **Added: Simplified Chinese language support (zh_cn)**
 
-v1.0.0 only supported two languages: English and Russian. The mod would automatically switch based on the client's language setting, but had no Chinese translation.
-
-v1.0.1 adds full Simplified Chinese localization. Key changes:
+v1.0.0 only supported English and Russian with no Chinese translation. v1.0.1 adds full Simplified Chinese localization. Key changes:
 
 | Item | v1.0.0 | v1.0.1 |
 |------|--------|--------|
